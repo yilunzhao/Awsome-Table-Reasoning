@@ -19,12 +19,12 @@ An annotated bibliography of tutorials, datasets, papers for Reasoning over Tabu
 ### Transformer-Based
 * TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.745/)][[Github](https://github.com/facebookresearch/TaBERT)] 
 * TAPAS: Weakly Supervised Table Parsing via Pre-training (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.398/)][[Github](https://github.com/google-research/tapas)] 
-* Understanding tables with intermediate pre-training (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2020.findings-emnlp.27/)][[Github](https://github.com/google-research/tapas)] 
 * TABBIE: Pretrained Representations of Tabular Data (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.270/)][[Github](https://github.com/SFIG611/tabbie)] 
 * Capturing Row and Column Semantics in Transformer Based Question Answering over Tables (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.96/)][[Github](https://github.com/IBM/row-column-intersection)] 
 * GraPPa: Grammar-Augmented Pre-Training for Table Semantic Parsing (ICLR 2021) [[Paper](https://openreview.net/forum?id=kyaIeYj4zZ)][[Huggingface](https://huggingface.co/Salesforce/grappa_large_jnt)] 
 * TUTA: Tree-based Transformers for Generally Structured Table Pre-training (KDD 2021) [[Paper](https://arxiv.org/abs/2010.12537)]
 * MATE: Multi-view Attention for Table Transformer Efficiency (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.600/)][[Github](https://github.com/google-research/tapas)] 
+* Understanding tables with intermediate pre-training (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2020.findings-emnlp.27/)][[Github](https://github.com/google-research/tapas)] 
 
 
 ## Logical Text Generation over Tabular Data
