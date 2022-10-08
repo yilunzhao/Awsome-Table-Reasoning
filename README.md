@@ -33,9 +33,10 @@
 
 #### 2022
 * TableFormer: Robust Transformer Modeling for Table-Text Encoding (ACL 2022) [[Paper](https://arxiv.org/pdf/2203.00274.pdf)][[Github](https://github.com/google-research/tapas/blob/master/TABLEFORMER.md)] 
+* OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering (NAACL) [[Paper](https://arxiv.org/pdf/2207.03637.pdf)][[Github](https://github.com/jzbjyb/OmniTab)] 
 
 
-## Logical Text Generation over Tabular Data
+## (Faithful) Table-to-Text Generation
 ### Datasets/Benchmark
 #### 2020
 * Logical Natural Language Generation from Open-Domain Tables (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.708/)][[Github](https://github.com/wenhuchen/LogicNLG)] 
@@ -56,7 +57,8 @@
 #### 2022
 * Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-main.371.pdf)][[Github](https://github.com/luka-group/Lattice)]
 * R2D2: Robust Data-to-Text with Replacement Detection (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2205.12467.pdf)][[Github](https://github.com/Yale-LILY/r2d2)]
-* PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation [[Paper](https://arxiv.org/pdf/2205.12697.pdf)][[Github](https://github.com/Aolius/logic-pretraining)]
+* PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2205.12697.pdf)][[Github](https://github.com/Aolius/logic-pretraining)]
+* Diversity Enhanced Table-to-Text Generation via Type Control (Pre-print) [[Paper](https://arxiv.org/pdf/2205.10938.pdf)]
 
 ## Reasoning over Tabular Data
 ### Datasets/Benchmark
@@ -100,13 +102,18 @@
 * Open Domain Question Answering over Tables via Dense Retrieval (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.43/)][[Github](https://github.com/google-research/tapas)]
 
 #### 2022
+* FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports (LREC 2022) [[Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.661.pdf)]
+* Towards Complex Document Understanding By Discrete Reasoning (MM 2022) [[Paper](https://arxiv.org/pdf/2209.07692.pdf)][[Github](https://nextplusplus.github.io/TAT-DQA/)]
+* Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder (COLING 2022) [[Paper](https://arxiv.org/pdf/2207.11871.pdf)][[Github](https://github.com/lfy79001/RegHNT)]
 
 ## Other directions
 ### Robustness
+#### 2021
 * Towards Robustness of Text-to-SQL Models against Synonym Substitution (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.195/)][[Github](https://github.com/ygan/Spider-Syn)]
 * Topic Transferable Table Question Answering (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.342/)][[Github](https://github.com/IBM/T3QA)]
-### Efficient Training
-* Turning Tables: Generating Examples from Semi-structured Tables for Endowing Language Models with Reasoning Skills (Pre-print) [[Paper](https://arxiv.org/abs/2107.07261)][[Github](https://github.com/oriyor/turning_tables)]
+
+#### 2022
+Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.381.pdf)][[Github](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]
 
 ## Tutorials
 #### 2021
