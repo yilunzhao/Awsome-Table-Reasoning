@@ -13,10 +13,7 @@
 
 ## Table Representation Learning
 ### Graph Representation
-#### 2020
 * A Graph Representation of Semi-structured Data for Web Question Answering (COLING 2020) [[Paper](https://aclanthology.org/2020.coling-main.5/)]
-
-#### 2021
 * Retrieving Complex Tables with Multi-Granular Graph Representation Learning (SIGIR 2021) [[Paper](https://arxiv.org/abs/2105.01736)][[Github](https://github.com/FeiWang96/GTR)] 
 
 ### Transformer-Based
@@ -31,6 +28,11 @@
 * TUTA: Tree-based Transformers for Generally Structured Table Pre-training (KDD 2021) [[Paper](https://arxiv.org/abs/2010.12537)]
 * MATE: Multi-view Attention for Table Transformer Efficiency (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.600/)][[Github](https://github.com/google-research/tapas)] 
 * Understanding tables with intermediate pre-training (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2020.findings-emnlp.27/)][[Github](https://github.com/google-research/tapas)] 
+* UnifiedSKG: Unifying and Multi-Tasking Structured Knowledge Grounding with Text-to-Text Language Models (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2201.05966.pdf)][[Github](https://github.com/HKUNLP/UnifiedSKG)] 
+* TAPEX: Table Pre-training via Learning a Neural SQL Executor (ICLR 2022) [[Paper](https://openreview.net/pdf?id=O50443AsCP)][[Github](https://github.com/microsoft/Table-Pretraining)] 
+
+#### 2022
+* TableFormer: Robust Transformer Modeling for Table-Text Encoding (ACL 2022) [[Paper](https://arxiv.org/pdf/2203.00274.pdf)][[Github](https://github.com/google-research/tapas/blob/master/TABLEFORMER.md)] 
 
 
 ## Logical Text Generation over Tabular Data
@@ -49,8 +51,12 @@
 * Towards Table-to-Text Generation with Numerical Reasoning (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.115/)]
 * De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.430/)]
 * Few-Shot Table-to-Text Generation with Prototype Memory (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.77/)]
-* Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.77/)][[Blank Github](https://github.com/google-research-datasets/totto)]
+* Attend, Memorize and Generate: Towards Faithful Table-to-Text Generation in Few Shots (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.77/)][[Github](https://github.com/google-research-datasets/totto)]
 
+#### 2022
+* Robust (Controlled) Table-to-Text Generation with Structure-Aware Equivariance Learning (NAACL 2022) [[Paper](https://aclanthology.org/2022.naacl-main.371.pdf)][[Github](https://github.com/luka-group/Lattice)]
+* R2D2: Robust Data-to-Text with Replacement Detection (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2205.12467.pdf)][[Github](https://github.com/Yale-LILY/r2d2)]
+* PLOG: Table-to-Logic Pretraining for Logical Table-to-Text Generation [[Paper](https://arxiv.org/pdf/2205.12697.pdf)][[Github](https://github.com/Aolius/logic-pretraining)]
 
 ## Reasoning over Tabular Data
 ### Datasets/Benchmark
@@ -68,6 +74,9 @@
 * Exploring Decomposition for Table-based Fact Verification (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.90/)]
 * Table-based Fact Verification With Salience-aware Learning (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.338/)][[Github]( luka-group/salience-aware-learning)]
 
+#### 2022
+* Learning to Generate Programs for Table Fact Verification via Structure-Aware Semantic Parsing (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.525.pdf)][[Github](https://github.com/ousuixin/SASP)]
+
 ## Reasoning over Tabular and Textual Data (Hybrid Data)
 ### Datasets/Benchmark
 #### 2020
@@ -81,13 +90,16 @@
 * FinQA: A Dataset of Numerical Reasoning over Financial Data (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.300/)][[Github](https://github.com/czyssrs/FinQA)]
 
 #### 2022
-* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data (ACL 2021) [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)][[Github](https://github.com/psunlpgroup/MultiHiertt)]
+* MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)][[Github](https://github.com/psunlpgroup/MultiHiertt)]
+* Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.5.pdf)]
+* HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data (ACL-findings 2022) [[Paper](https://aclanthology.org/2022.findings-acl.41.pdf)][[Github](https://github.com/entitize/HybridDialogue)]
 
 
 ### Models
+#### 2021
 * Open Domain Question Answering over Tables via Dense Retrieval (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.43/)][[Github](https://github.com/google-research/tapas)]
 
-
+#### 2022
 
 ## Other directions
 ### Robustness
@@ -97,16 +109,9 @@
 * Turning Tables: Generating Examples from Semi-structured Tables for Endowing Language Models with Reasoning Skills (Pre-print) [[Paper](https://arxiv.org/abs/2107.07261)][[Github](https://github.com/oriyor/turning_tables)]
 
 ## Tutorials
-### KDD'21 Tutorial: From Tables to Knowledge: Recent Advances in Table Understanding [[Website](https://usc-isi-i2.github.io/KDD21Tutorial/index.html)]
-* Understanding Table Structures [[slides](https://usc-isi-i2.github.io/KDD21Tutorial/1-KDD2021-FT2K-Structural-Table-Understanding.pdf)] by _Jay Pujara_
-* Semantic Understanding of Tables [[slides](https://usc-isi-i2.github.io/KDD21Tutorial/2-KDD2021-FT2K-Semantic-Models.pdf)] by _Pedro Szekely_
-* Representation Learning for Tables [[slides](https://usc-isi-i2.github.io/KDD21Tutorial/3-KDD2021-FT2K-Representation-Learning.pdf)] by _Huan Sun_
-* Bridging Tables and Language [[slides](https://usc-isi-i2.github.io/KDD21Tutorial/4-KDD2021-FT2K-human-languages.pdf)] by _Muhao Chen_
-
-### EMNLP 2021 Tutorial: Knowledge-Enriched Natural Language Generation [[Website](https://kenlg-tutorial.github.io/)]
-* General Methods of Integrating Knowledge into NLG [[slides(Hu)](https://kenlg-tutorial.github.io/tutorial/part2.pdf)][[slides(Rajani)](https://kenlg-tutorial.github.io/tutorial/part3.pdf)] by _Zhiting Hu, Nazneen Rajani_
-* NLG Methods Enhanced by Various Knowledge Source [[slides](https://kenlg-tutorial.github.io/tutorial/part4.pdf)] by _Wenhao Yu_
-
+#### 2021
+* KDD 2021 Tutorial: From Tables to Knowledge: Recent Advances in Table Understanding [[Website](https://usc-isi-i2.github.io/KDD21Tutorial/index.html)]
+* EMNLP 2021 Tutorial: Knowledge-Enriched Natural Language Generation [[Website](https://kenlg-tutorial.github.io/)]
 
 ## Contributing
 Please feel free to make a pull request or email Yilun Zhao (yilun.zhao@yale.edu) for any interesting updates.
