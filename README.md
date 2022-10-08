@@ -16,7 +16,7 @@
 * A Graph Representation of Semi-structured Data for Web Question Answering (COLING 2020) [[Paper](https://aclanthology.org/2020.coling-main.5/)]
 * Retrieving Complex Tables with Multi-Granular Graph Representation Learning (SIGIR 2021) [[Paper](https://arxiv.org/abs/2105.01736)][[Github](https://github.com/FeiWang96/GTR)] 
 
-### Transformer-Based
+### Transformer-Based / Pre-training
 #### 2020
 * TaBERT: Learning Contextual Representations for Natural Language Utterances and Structured Tables (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.745/)][[Github](https://github.com/facebookresearch/TaBERT)] 
 * TAPAS: Weakly Supervised Table Parsing via Pre-training (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.398/)][[Github](https://github.com/google-research/tapas)] 
@@ -47,7 +47,7 @@
 * HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation (Pre-print 2021) [[Paper](https://arxiv.org/abs/2108.06712)]
 * TWT: Table with Written Text for Controlled Data-to-Text Generation (EMNLP-findings 2021) [[Paper](https://aclanthology.org/2021.findings-emnlp.107/)][[Github](https://github.com/tonyliangli/TWT)]
 
-### Models
+### Methodology
 #### 2021
 * Towards Table-to-Text Generation with Numerical Reasoning (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.115/)]
 * De-Confounded Variational Encoder-Decoder for Logical Table-to-Text Generation (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.430/)]
@@ -69,7 +69,7 @@
 * FeTaQA: Free-form Table Question Answering (TACL 2021) [[Paper](https://arxiv.org/abs/2104.00369)][[Github](https://github.com/Yale-LILY/FeTaQA)]
 * HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation (Pre-print 2021) [[Paper](https://arxiv.org/abs/2108.06712)]
 
-### Models
+### Methodology
 #### 2021
 * Joint Verification and Reranking for Open Fact Checking Over Tables (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.529/)][[Github](https://github.com/facebookresearch/OpenTableFactChecking)]
 * Logic-level Evidence Retrieval and Graph-based Verification Network for Table-based Fact Verification (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.16/)][[Blank Github](https://github.com/qshi95/LERGV)]
@@ -90,6 +90,7 @@
 * TSQA: Tabular Scenario Based Question Answering (AAAI 2021) [[Paper](https://arxiv.org/abs/2101.11429)][[Github](https://github.com/nju-websoft/TSQA)]
 * TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.254/)][[Github](https://github.com/NExTplusplus/tat-qa)]
 * FinQA: A Dataset of Numerical Reasoning over Financial Data (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.300/)][[Github](https://github.com/czyssrs/FinQA)]
+* FEVEROUS: Fact Extraction and VERification Over Unstructured and Structured information (NeurIPS-benchmark 2021) [[Paper](https://arxiv.org/pdf/2106.05707.pdf)][[Github](https://github.com/Raldir/FEVEROUS)]
 
 #### 2022
 * MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)][[Github](https://github.com/psunlpgroup/MultiHiertt)]
@@ -97,7 +98,7 @@
 * HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data (ACL-findings 2022) [[Paper](https://aclanthology.org/2022.findings-acl.41.pdf)][[Github](https://github.com/entitize/HybridDialogue)]
 
 
-### Models
+### Methodology
 #### 2021
 * Open Domain Question Answering over Tables via Dense Retrieval (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.43/)][[Github](https://github.com/google-research/tapas)]
 
@@ -105,15 +106,13 @@
 * FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports (LREC 2022) [[Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.661.pdf)]
 * Towards Complex Document Understanding By Discrete Reasoning (MM 2022) [[Paper](https://arxiv.org/pdf/2209.07692.pdf)][[Github](https://nextplusplus.github.io/TAT-DQA/)]
 * Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder (COLING 2022) [[Paper](https://arxiv.org/pdf/2207.11871.pdf)][[Github](https://github.com/lfy79001/RegHNT)]
+* TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data (Pre-print 2022) [[Paper](https://arxiv.org/pdf/2205.12682.pdf)][[Github](https://github.com/koalazf99/tacube)]
 
 ## Other directions
 ### Robustness
-#### 2021
-* Towards Robustness of Text-to-SQL Models against Synonym Substitution (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.195/)][[Github](https://github.com/ygan/Spider-Syn)]
+* Towards Robustness of Text-to-SQLs against Synonym Substitution (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.195/)][[Github](https://github.com/ygan/Spider-Syn)]
 * Topic Transferable Table Question Answering (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.342/)][[Github](https://github.com/IBM/T3QA)]
-
-#### 2022
-Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.381.pdf)][[Github](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]
+* Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.381.pdf)][[Github](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]
 
 ## Tutorials
 #### 2021
