@@ -39,7 +39,7 @@
 #### 2022
 * Large Language Models are few(1)-shot Table Reasoners (Pre-print) [[Paper](https://arxiv.org/pdf/2210.06710.pdf)]
 
-## (Faithful) Table-to-Text Generation
+## Controllable Table-to-Text Generation
 ### Datasets/Benchmark
 #### 2020
 * Logical Natural Language Generation from Open-Domain Tables (ACL 2020) [[Paper](https://aclanthology.org/2020.acl-main.708/)][[Github](https://github.com/wenhuchen/LogicNLG)] 
