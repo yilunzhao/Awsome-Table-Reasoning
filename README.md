@@ -35,6 +35,9 @@
 * TableFormer: Robust Transformer Modeling for Table-Text Encoding (ACL 2022) [[Paper](https://arxiv.org/pdf/2203.00274.pdf)][[Github](https://github.com/google-research/tapas/blob/master/TABLEFORMER.md)] 
 * OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering (NAACL) [[Paper](https://arxiv.org/pdf/2207.03637.pdf)][[Github](https://github.com/jzbjyb/OmniTab)] 
 
+### Potential of Large LMs / Chain-of-Thought
+#### 2022
+* Large Language Models are few(1)-shot Table Reasoners (Pre-print) [[Paper](https://arxiv.org/pdf/2210.06710.pdf)]
 
 ## (Faithful) Table-to-Text Generation
 ### Datasets/Benchmark
