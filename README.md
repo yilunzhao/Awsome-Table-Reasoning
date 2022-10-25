@@ -33,7 +33,11 @@
 
 #### 2022
 * TableFormer: Robust Transformer Modeling for Table-Text Encoding (ACL 2022) [[Paper](https://arxiv.org/pdf/2203.00274.pdf)][[Github](https://github.com/google-research/tapas/blob/master/TABLEFORMER.md)] 
-* OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering (NAACL) [[Paper](https://arxiv.org/pdf/2207.03637.pdf)][[Github](https://github.com/jzbjyb/OmniTab)] 
+* OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering (NAACL 2022) [[Paper](https://arxiv.org/pdf/2207.03637.pdf)][[Github](https://github.com/jzbjyb/OmniTab)] 
+* REASTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2210.12374.pdf)][[Github](https://github.com/Yale-LILY/ReasTAP)] 
+* Table-To-Text generation and pre-training with TabT5 (EMNLP 2022-findings) [[Paper](https://arxiv.org/pdf/2210.09162.pdf)]
+* STAR: SQL Guided Pre-Training for Context-dependent Text-to-SQL Parsing (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2210.11888.pdf)]
+
 
 ### Potential of Large LMs / Chain-of-Thought
 #### 2022
@@ -98,12 +102,15 @@
 #### 2022
 * MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.454.pdf)][[Github](https://github.com/psunlpgroup/MultiHiertt)]
 * Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.5.pdf)]
-* HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data (ACL-findings 2022) [[Paper](https://aclanthology.org/2022.findings-acl.41.pdf)][[Github](https://github.com/entitize/HybridDialogue)]
+* HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data (ACL-findings 2022) [[Paper](https://aclanthology.org/2022.findings-acl.41.pdf)][[Github](https://github.com/JD-AI-Research-NLP/MuGER2)]
 
 
 ### Methodology
 #### 2021
 * Open Domain Question Answering over Tables via Dense Retrieval (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.43/)][[Github](https://github.com/google-research/tapas)]
+
+#### 2022
+* MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering (EMNLP-findings 2022) [[Paper](https://arxiv.org/pdf/2210.10350.pdf)][[Github](https://github.com/JD-AI-Research-NLP/MuGER2)]
 
 #### 2022
 * FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports (LREC 2022) [[Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.661.pdf)]
