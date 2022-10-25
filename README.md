@@ -110,13 +110,11 @@
 * Open Domain Question Answering over Tables via Dense Retrieval (NAACL 2021) [[Paper](https://aclanthology.org/2021.naacl-main.43/)][[Github](https://github.com/google-research/tapas)]
 
 #### 2022
-* MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering (EMNLP-findings 2022) [[Paper](https://arxiv.org/pdf/2210.10350.pdf)][[Github](https://github.com/JD-AI-Research-NLP/MuGER2)]
-
-#### 2022
 * FinMath: Injecting a Tree-structured Solver for Question Answering over Financial Reports (LREC 2022) [[Paper](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.661.pdf)]
 * Towards Complex Document Understanding By Discrete Reasoning (MM 2022) [[Paper](https://arxiv.org/pdf/2209.07692.pdf)][[Github](https://nextplusplus.github.io/TAT-DQA/)]
 * Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder (COLING 2022) [[Paper](https://arxiv.org/pdf/2207.11871.pdf)][[Github](https://github.com/lfy79001/RegHNT)]
-* TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data (Pre-print 2022) [[Paper](https://arxiv.org/pdf/2205.12682.pdf)][[Github](https://github.com/koalazf99/tacube)]
+* TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data (EMNLP 2022) [[Paper](https://arxiv.org/pdf/2205.12682.pdf)][[Github](https://github.com/koalazf99/tacube)]
+* MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering (EMNLP-findings 2022) [[Paper](https://arxiv.org/pdf/2210.10350.pdf)][[Github](https://github.com/JD-AI-Research-NLP/MuGER2)]
 
 ## Other directions
 ### Robustness
