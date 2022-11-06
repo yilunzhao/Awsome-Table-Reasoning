@@ -121,6 +121,7 @@
 * Towards Robustness of Text-to-SQLs against Synonym Substitution (ACL 2021) [[Paper](https://aclanthology.org/2021.acl-long.195/)][[Github](https://github.com/ygan/Spider-Syn)]
 * Topic Transferable Table Question Answering (EMNLP 2021) [[Paper](https://aclanthology.org/2021.emnlp-main.342/)][[Github](https://github.com/IBM/T3QA)]
 * Bridging the Generalization Gap in Text-to-SQL Parsing with Schema Expansion (ACL 2022) [[Paper](https://aclanthology.org/2022.acl-long.381.pdf)][[Github](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]
+* Dr.Spider: A Diagnostic Evaluation Benchmark towards Text-to-SQL Robustness (ICLR 2023 submission) [[Paper](https://openreview.net/forum?id=Wc5bmZZU9cy)][[Github](https://github.com/microsoft/text-to-sql-schema-expansion-generalization)]
 
 ## Tutorials
 #### 2021
